@@ -1,0 +1,61 @@
+
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "Hambúrguer Vegetariano",
+        "description": "Um suculento hambúrguer vegetariano com alface, tomate e maionese vegana.",
+        "price": 11.99,
+        "image_url": "https://www.sabornamesa.com.br/media/k2/items/cache/acbf17dca076404b2078b0d4b135530d_XL.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Pizza Pepperoni",
+        "description": "Uma pizza de pepperoni com molho de tomate, queijo mussarela e pimenta vermelha.",
+        "price": 13.99,
+        "image_url": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-de-pepperoni-0.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sorvete de Chocolate",
+        "description": "Um delicioso sorvete de chocolate servido em uma casquinha de waffle.",
+        "price": 5.49,
+        "image_url": "https://cozinhaemsegundos.com.br/images/receitas/1200_receita-de-sorvete-de-chocolate.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Salada Mediterrânea",
+        "description": "Uma salada fresca com alface romana, azeitonas, queijo feta e molho de ervas.",
+        "price": 9.49,
+        "image_url": "https://blog.gsuplementos.com.br/wp-content/uploads/2020/11/iStock-479831676.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Taco de Vegetais",
+        "description": "Tacos recheados com legumes grelhados, abacate e molho picante.",
+        "price": 10.99,
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/08/13/83/49/zapata-mexican-bar.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Burrito de Frango",
+        "description": "Um burrito recheado com frango, feijão, queijo e guacamole.",
+        "price": 10.99,
+        "image_url": "https://receitinhas.com.br/wp-content/uploads/2017/01/burritos-scaled.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Sushi Especial",
+        "description": "Uma seleção de sushi com variedade de peixes frescos e molho de soja.",
+        "price": 15.99,
+        "image_url": "https://kingtemaki.com.br/lojas/wp-content/uploads/2021/06/sushi-especial-brie-kingtemaki.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Batata Doce Frita",
+        "description": "Batatas doces fritas crocantes servidas com molho de iogurte.",
+        "price": 6.99,
+        "image_url": "https://www.comidaereceitas.com.br/wp-content/uploads/2022/08/Batata-doce-frita-freepik.jpg"
+      }
+    ]
+  }

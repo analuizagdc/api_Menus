@@ -1,0 +1,60 @@
+{
+        "menu": [
+          {
+            "id": 1,
+            "name": "Hambúrguer de Frango",
+            "description": "Um delicioso hambúrguer de frango grelhado com alface, tomate e maionese.",
+            "price": 10.99,
+            "image_url": "https://minervafoods.com/wp-content/uploads/2022/12/hamburguer_de_frango_-_blog-3.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Pizza Margherita",
+            "description": "Uma pizza clássica com molho de tomate, queijo mussarela e manjericão fresco.",
+            "price": 12.99,
+            "image_url": "https://blog.praticabr.com/wp-content/uploads/2023/06/margherita-1024x682.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Sorvete de Baunilha",
+            "description": "Um refrescante sorvete de baunilha servido em uma casquinha crocante.",
+            "price": 4.99,
+            "image_url": "https://images.genius.com/3a0b1e6a5b835e0f09dcbf43ab58fa84.1000x1000x1.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Salada Caesar",
+            "description": "Uma salada fresca com alface romana, croutons, queijo parmesão e molho Caesar.",
+            "price": 8.99,
+            "image_url": "https://img.saborosos.com.br/imagens/salada-caesar.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Taco de Camarão",
+            "description": "Tacos de camarão grelhado com coentro, cebola roxa e molho de abacate.",
+            "price": 11.99,
+            "image_url": "https://t1.uc.ltmcdn.com/pt/posts/7/1/8/como_fazer_recheio_para_tacos_de_camarao_29817_orig.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Burrito de Carne",
+            "description": "Um burrito recheado com carne, feijão, queijo e guacamole.",
+            "price": 9.99,
+            "image_url": "https://cdn0.tudoreceitas.com/pt/posts/9/7/9/burrito_de_carne_facil_7979_orig.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Sushi Misto",
+            "description": "Uma seleção de sushi com variedade de peixes frescos e molho de soja.",
+            "price": 14.99,
+            "image_url": "https://img.freepik.com/fotos-premium/rolo-de-sushi-misto-e-sashimi-de-salmao_90251-918.jpg"
+          },
+          {
+            "id": 8,
+            "name": "Batata Frita",
+            "description": "Batatas fritas crocantes servidas com ketchup ou maionese.",
+            "price": 5.99,
+            "image_url": "https://static.itdg.com.br/images/1200-630/150ba2d5d2874bed8561dd8edbdc1323/164773-original.jpg"
+          }
+        ]
+      }
